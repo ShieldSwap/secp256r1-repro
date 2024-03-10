@@ -1,0 +1,7 @@
+[package]
+name = "test_secp256r1"
+type = "lib"
+authors = [""]
+compiler_version = ">=0.24.0"
+
+[dependencies]
